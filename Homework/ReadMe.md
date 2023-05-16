@@ -10,11 +10,11 @@
 
    5.Make the plane's propeller rotate.
 
-   6. Add input logic into PlayerController.cs script to fly the plane horizontally.
+  6. Add input logic into PlayerController.cs script to fly the plane horizontally.
 
-   7. Add input logic into Playercontroller.cs script on Q and E keys to roll the plane by Z axis.
+  7. Add input logic into Playercontroller.cs script on Q and E keys to roll the plane by Z axis.
 
-   8. In FollowPlayer.cs script create "smooth follow camera logic" which will follow the plane on its flight
+  8. In FollowPlayer.cs script create "smooth follow camera logic" which will follow the plane on its flight
 
-   9. [Hard] Create and attach new script which will "drop" a sphere gameobject from the plane when press a spacebar. Create a new script and attach it to that cloned object. The script will translate the object down like it's falling. Destroy the clonned object after 5 seconds.
+  9. [Hard] Create and attach new script which will "drop" a sphere gameobject from the plane when press a spacebar. Create a new script and attach it to that cloned object. The script will translate the object down like it's falling. Destroy the clonned object after 5 seconds.
 
