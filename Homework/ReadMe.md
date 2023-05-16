@@ -1,23 +1,20 @@
-Homework Tasks
+# Homework Tasks
 
-    Create material with standart shader.
+   1.Create material with standart shader.
 
-    Apply "Assets/Models/_Source_Files/Textures/SimpleAirport.png" to it and apply it to plane model.
+   2. Apply "Assets/Models/_Source_Files/Textures/SimpleAirport.png" to it and apply it to plane model.
 
-    Fix the plane's script and make it fly correctly.
+   3.Fix the plane's script and make it fly correctly.
 
-    Fix the play mode errors.
+   4.Fix the play mode errors.
 
-    Make the plane's propeller rotate.
+   5.Make the plane's propeller rotate.
 
-    HINT: https://docs.unity3d.com/ScriptReference/Transform.Rotate.html
+   6. Add input logic into PlayerController.cs script to fly the plane horizontally.
 
-    Add input logic into PlayerController.cs script to fly the plane horizontally.
+   7. Add input logic into Playercontroller.cs script on Q and E keys to roll the plane by Z axis.
 
-    Add input logic into Playercontroller.cs script on Q and E keys to roll the plane by Z axis.
+   8. In FollowPlayer.cs script create "smooth follow camera logic" which will follow the plane on its flight
 
-    In FollowPlayer.cs script create "smooth follow camera logic" which will follow the plane on its flight
+   9. [Hard] Create and attach new script which will "drop" a sphere gameobject from the plane when press a spacebar. Create a new script and attach it to that cloned object. The script will translate the object down like it's falling. Destroy the clonned object after 5 seconds.
 
-    Check: https://www.youtube.com/watch?v=MFQhpwc6cKE for more info
-
-    [Hard] Create and attach new script which will "drop" a sphere gameobject from the plane when press a spacebar. Create a new script and attach it to that cloned object. The script will translate the object down like it's falling. Destroy the clonned object after 5 seconds.
